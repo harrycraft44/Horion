@@ -13,7 +13,7 @@ private:
 	float verticalrange = 40.f;
 	float horizontalrange = 60.f;
 	bool lock = false;
-
+	// Aim Bot
 public:
 	Aimbot();
 	~Aimbot();
